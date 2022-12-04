@@ -6,6 +6,7 @@ export default function Home() {
     const handlefunction=()=>{
      navigate("/")
      localStorage.clear("phoneNumber")
+     
     }
 
   return (
